@@ -13,7 +13,7 @@ I did my internship at the Clearinghouse for Military Family Readiness at Penn S
 
 ## Employment
 ### Clearinghouse for Military Family Readiness
-I after my internship I was offered a fulltime position with the Clearinghouse for Military Family Readiness and during my time there I devloped modules for the adapt framework, to help in the data collection of classes. I created a module that allowed for multiple correct answers which can be found here.[]
+I after my internship I was offered a fulltime position with the Clearinghouse for Military Family Readiness and during my time there I devloped modules for the adapt framework, to help in the data collection of classes. I created a module that allowed for multiple correct answers. The project as it was last touched by me in 2017 can be found on my personal heroku [here](https://obscure-coast-37071.herokuapp.com).
 
 After that we moved away from Drupal and under new guidance became a WordPress house. I was responsible for the construction of multiple sites by taking a design and reconstructing it with the parent theme that was designated. While I can't upload those because they're actively being used, and proprietary, you're free to go and look at those sites which I will have listed below.
 
