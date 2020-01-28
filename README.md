@@ -1,12 +1,44 @@
-## Welcome to GitHub Pages
+# Welcome to Bryan Butler's GitHub page
 
-You can use the [editor on GitHub](https://github.com/BryanButler/BryanButler.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Here you can look at some of my work history. Don't worry kind traveler, I have taken the liberty of tidying up and keeping everything in chronological order. You should be able to get a snapshot of the work that I have done, and am currently doing from this point. The best way to get to the bottom of a burning question you find here, is to ask the butler himself [Bryan Butler](mailto:bryanbutler42@gmail.com).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I hope you enjoy your stay and feel free to contact me with any questions you have.
 
-### Markdown
+## Schooling
+I graduated with an associates degree from SouthHills School of Business and Technology. Here I've left the repo exactly as I commited it. I feel it's important to show progress and humility where you can. There are alot of things I would have done differently, not the least of which would be better git commits.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+## Internship
+I did my internship at the Clearinghouse for Military Family Readiness at Penn State. In the beginning I did my work in Drupal 7, under a parent theme developed by my organization. I made custom views and template files to display sponsors and team members on the webpage. You can view the project, [The Verterans Metrics Initiative](tvmi.militaryfamilies.psu.edu), as it was last touched in 2015.
+
+## Employment
+### Clearinghouse for Military Family Readiness
+I after my internship I was offered a fulltime position with the Clearinghouse for Military Family Readiness and during my time there I devloped modules for the adapt framework, to help in the data collection of classes. I created a module that allowed for multiple correct answers which can be found here.[]
+
+After that we moved away from Drupal and under new guidance became a WordPress house. I was responsible for the construction of multiple sites by taking a design and reconstructing it with the parent theme that was designated. While I can't upload those because they're actively being used, and proprietary, you're free to go and look at those sites which I will have listed below.
+
+#### Construction
+- Inclusivity
+- Readyset
+- Severity Scales
+- Tools
+- School Resources
+
+#### Maintenence
+- Military Families
+- 5210
+- New Parent Support Progream
+- Thrive
+
+I have also spent some time writing scripts for apache server administration and for gathering content from older sites. I'd like to take this opportunity to share them with you here.
+- Wordpress Backups
+- Wordpress Permissions
+- Wordpress Update
+- Grav Permissions
+- Content Gathering Script
+
+I've had to opportunity to work some other projects using some more obscure platforms, listed below.
+- Grav CMS (shortcode plugin development)
 
 ```markdown
 Syntax highlighted code block
