@@ -30,6 +30,7 @@ After that we moved away from Drupal and under new guidance became a WordPress h
 - [New Parent Support Progream](https://armynpsp.militaryfamilies.psu.edu/)
 - [Thrive](https://thrive.psu.edu/)
 
+#### Scripts
 I have also spent some time writing scripts for apache server administration and for gathering content from older sites. I'd like to take this opportunity to share them with you here.
 - [WordPress Backups](https://github.com/BryanButler/UsefulScripts/blob/master/backup-wp.sh)
 - [WordPress Permissions](https://github.com/BryanButler/UsefulScripts/blob/master/push-pull-wp.sh)
@@ -37,7 +38,7 @@ I have also spent some time writing scripts for apache server administration and
 - [WordPress staging push&pull](https://github.com/BryanButler/UsefulScripts/blob/master/push-pull-wp.sh)
 - [Grav Permissions](https://github.com/BryanButler/UsefulScripts/blob/master/grav-permissions.sh)
 
-
+#### Obscure projects
 I've had to opportunity to work on some other projects using some more obscure platforms, listed below.
 - [Grav CMS](https://getgrav.org/) *shortcode plugin development*
 - [Silva LMS](https://sites.psu.edu/silva/) *Angular.JS, Sails, MongoDB*
